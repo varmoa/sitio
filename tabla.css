@@ -1,0 +1,78 @@
+.tabla{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    padding-top: 50px;
+
+}
+
+.tablax4{
+    float: left;
+    width: 25%;
+    margin-top: 10px;
+    font-family: rale;
+
+}
+
+.cajaprecio{
+    border: 1px solid #b5e0ba;
+    background: #309286;
+}
+
+.iconoprec{
+    color: #f7b633;
+    padding-top: 20px;
+    font-size: 3em;
+    padding-bottom: 10px;
+ 
+}
+.cajaprecio h4{
+    color: #fff;
+}
+
+.precio1{
+    color: #000;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.dolar{
+    font-size: 20px;
+    vertical-align: super;
+}
+
+.mes{
+    font-size: 15px;
+    
+}
+.listaprecios{
+    list-style: none;
+    padding: 20px 0;
+    color: #000;
+    padding-bottom: 50px;
+}
+
+.listaespacios{
+    padding: .25em;
+    font-size: 15px;
+}
+
+.boton-contrato{
+    margin-bottom: 25px;
+}
+
+.contratar-a{
+    background: #f7b633;
+    text-decoration: none;
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: bold;
+    padding: 10px 70px;
+    letter-spacing: 1px;
+    width: 90%;
+}
+
+.contratar-a:hover{
+    background: #000;
+    
+}
